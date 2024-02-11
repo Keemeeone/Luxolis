@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Luxolis/static/css/main.f96f07a4.css",
-    "main.js": "/Luxolis/static/js/main.1324ce13.js",
+    "main.js": "/Luxolis/static/js/main.486a27ba.js",
     "index.html": "/Luxolis/index.html",
     "main.f96f07a4.css.map": "/Luxolis/static/css/main.f96f07a4.css.map",
-    "main.1324ce13.js.map": "/Luxolis/static/js/main.1324ce13.js.map"
+    "main.486a27ba.js.map": "/Luxolis/static/js/main.486a27ba.js.map"
   },
   "entrypoints": [
     "static/css/main.f96f07a4.css",
-    "static/js/main.1324ce13.js"
+    "static/js/main.486a27ba.js"
   ]
 }
