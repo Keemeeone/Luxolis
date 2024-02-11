@@ -1,0 +1,8 @@
+{
+  "short_name": "React App",
+  "name": "luxolis login",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2148C0",
+  "background_color": "#2148C0"
+}
